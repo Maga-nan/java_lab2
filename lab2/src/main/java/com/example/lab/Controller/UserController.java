@@ -1,7 +1,7 @@
 package com.example.lab.Controller;
 
 import com.example.lab.DTO.UserDTO;
-import com.example.lab.model.User;
+import com.example.lab.Model.User;
 import com.example.lab.Service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
